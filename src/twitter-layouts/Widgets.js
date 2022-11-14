@@ -2,7 +2,7 @@ import React from "react";
 import { Timeline } from "react-twitter-widgets";
 import { MessagesIcon, SearchIcon} from "../icons/Icon";
 import TrendsKeyword from "./TrendsKeyword";
-//import Appcss from "../App.css";
+import Appcss from "../App.css";
 //import UserBox from "../components/UserBox";
 
 const Widgets = () => {
