@@ -1,20 +1,11 @@
-# Twitter Clone App For Youtube
+### K146-React-Bootcamp Twitter Clone Project
 
-Youtube Tutorial Series For This Clone [Twitter Clone](https://youtube.com/playlist?list=PLDq0IUpYONvTVIah8Ji48ZmAei5rSgPYJ).
 
-## Installation
 
-```bash
-  git clone https://github.comcodingwithdidem/twitter-clone-app.git
-  cd twitter-clone-app
-  npm install
-  npm start
-```
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-**You need to create your own firestore database. Simply change `firebase.js` file with your own firebase config data.**
 
-## Tech
 
-- ReactJS
-- Tailwindcss
-- Firebase Firestore
+### Screen:
+![twitter](https://user-images.githubusercontent.com/80580769/201539592-6730c02f-6f1a-41a1-b88d-83f49f6d02b1.png)
