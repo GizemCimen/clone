@@ -24,7 +24,7 @@ const TweetBox = () => {
         image:
         // https://i.makeagif.com/media/8-12-2015/h0TvIg.gif
         //https://upload.wikimedia.org/wikipedia/commons/b/b1/Loading_icon.gif?20151024034921
-          "https://media.tenor.com/s0VWUEOHz9kAAAAd/elbformat-coding.gif",
+          "",
         avatar:
           "https://pbs.twimg.com/profile_images/1515783158062624773/uyeNxbfi_400x400.jpg",
       });
