@@ -8,7 +8,7 @@ import Appcss from "../App.css";
 const Widgets = () => {
   
   return (
-    <aside className="w-80">
+    <aside className="w-80 h-screen sticky top-0 flex flex-col justify-between  px-2">
 
       {/* search */}
       <div className="flex items-center space-x-4 p-3 m-3 bg-gray-200 rounded-full text-gray-dark focus-within:bg-white focus-within:ring-1 focus-within:ring-primary-base focus-within:text-primary-base">
