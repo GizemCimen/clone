@@ -9,4 +9,5 @@ https://clone-twitter-three.vercel.app/
 
 
 ### Screen:
-![twitter](https://user-images.githubusercontent.com/80580769/201539592-6730c02f-6f1a-41a1-b88d-83f49f6d02b1.png)
+
+![clone](https://user-images.githubusercontent.com/80580769/202046655-56baca8d-ba57-44ce-9586-809be9314075.jpg)
