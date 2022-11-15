@@ -31,6 +31,10 @@ const TrendsKeyword = () => {
             <div className="keyword__tweets">{keyword.totalKeywords}</div>
           </div>
         ))}
+          <button className="btn_more
+           
+            ">
+              Show more</button>
       </div>
     </div>
   );
