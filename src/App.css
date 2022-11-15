@@ -67,3 +67,16 @@
   border-radius: 10px;
 }
 
+.btn_more{
+  width: 100%;
+  font-size: 20px;
+  padding: 5px 15px;
+  text-align:justify;
+  border-radius: 4px;
+  color: #00acee;
+}
+
+.btn_more:hover{
+  background-color: #ebebeb; /*Carrot*/
+ 
+}
